@@ -1,0 +1,4 @@
+LangChain is a framework for developing applications powered by language models. It
+enables easy integration of language models with external knowledge sources like files,
+websites, and databases. LangChain supports use cases such as chatbots, document
+summarization, and Q&A systems.
